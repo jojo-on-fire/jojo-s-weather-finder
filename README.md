@@ -39,7 +39,7 @@ JoJo's Weather Finder is a simple weather application built using React Vite. It
    npm run dev
 
 
-##Usage
+## Usage
 1. Enter the name of a city in the search bar.
 2. Press the search button to fetch the weather details.
 3. The app will display the temperature, humidity, and wind speed.
