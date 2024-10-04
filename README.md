@@ -32,7 +32,7 @@ JoJo's Weather Finder is a simple weather application built using React Vite. It
 
 4. Create a .env file in the root directory and add your OpenWeatherMap API key:
    ```bash
-   VITE_API=your_openweather_api_key
+   VITE_API="your_openweather_api_key"
 
 5. Start the development server:
    ```bash
