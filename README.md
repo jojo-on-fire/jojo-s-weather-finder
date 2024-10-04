@@ -1,8 +1,21 @@
-# React + Vite
+# JoJo's Weather Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+JoJo's Weather Finder is a simple weather application built using React Vite. It fetches weather data from the OpenWeatherMap API, allowing users to search for the current weather in any city.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search for weather by city name
+- Displays temperature, humidity, and weather conditions
+- Responsive and minimalist design
+
+## Tech Stack
+
+- **Frontend**: React (Vite)
+- **API**: [OpenWeatherMap](https://openweathermap.org/api)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/jojo-weather-finder.git
