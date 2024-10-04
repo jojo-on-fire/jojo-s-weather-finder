@@ -19,3 +19,27 @@ JoJo's Weather Finder is a simple weather application built using React Vite. It
 
    ```bash
    git clone https://github.com/your-username/jojo-weather-finder.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd jojo-s-weather-finder
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+
+4. Create a .env file in the root directory and add your OpenWeatherMap API key:
+   ```bash
+   VITE_API=your_openweather_api_key
+
+5. Start the development server:
+   ```bash
+   npm run dev
+
+
+##Usage
+1. Enter the name of a city in the search bar.
+2. Press the search button to fetch the weather details.
+3. The app will display the temperature, humidity, and wind speed.
