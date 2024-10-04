@@ -18,7 +18,7 @@ JoJo's Weather Finder is a simple weather application built using React Vite. It
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/jojo-weather-finder.git
+   git clone https://github.com/jojo-on-fire/jojo-s-weather-finder.git
 
 2. Navigate to the project directory:
 
