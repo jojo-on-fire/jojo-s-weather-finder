@@ -61,7 +61,7 @@ const Weather = () => {
     }
 
     useEffect(()=>{
-        search("Kochi");
+        search("Bengaluru");
     },[])
 
   return (
